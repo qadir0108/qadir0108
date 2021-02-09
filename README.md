@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- ⚡ I’m Freelance Software Consultant with expertise in Database development
+- ⚡ I have experience in Telecommunication, Transports & Logistics, Public Saftey and Educational technology.
+- 🔭 I’m currently working on .NET / ASP.NET / Java
+- 🌱 I’m currently learning New Technologies
+- 👯 I’m looking to collaborate on ASP.NET5 projects
+- 🤔 I’m looking for help to boost my Freelance career
+- 💬 Ask me about Data Structures & Algorithms
+- 📫 How to reach me: https://www.linkedin.com/in/kamranqadir/
