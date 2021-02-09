@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning New Technologies
 - 👯 I’m looking to collaborate on ASP.NET5 projects
 - 🤔 I’m looking for help to boost my Freelance career
-- 💬 Ask me about Data Structures & Algorithms
+- 💬 Ask me about Programming, Data Structures & Algorithms
 - 📫 How to reach me: https://www.linkedin.com/in/kamranqadir/
