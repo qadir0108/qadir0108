@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - ⚡ I’m Freelance Software Consultant with expertise in Database development
-- ⚡ I have experience in Telecommunication, Transports & Logistics, Public Saftey and Educational technology.
+- ⚡ I have experience in Telecommunication, Transportation & Logistics, Public Saftey and Educational technologies.
 - 🔭 I’m currently working on .NET / ASP.NET / Java
 - 🌱 I’m currently learning New Technologies
 - 👯 I’m looking to collaborate on ASP.NET5 projects
